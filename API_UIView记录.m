@@ -2,7 +2,8 @@
 //  UIView.h
 //  UIKit
 //
-//
+//  Copyright (c) 2005-2015 Apple Inc. All rights reserved.
+//  
 //  Coder_Sun的GitHub地址：https://github.com/272095249
 //  Coder_Sun简书网址：http://www.jianshu.com/u/87c7aa9de064
 //
