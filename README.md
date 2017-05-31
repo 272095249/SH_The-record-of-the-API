@@ -3,6 +3,14 @@
 
 
 
+### 5月31日 更新：加入了API_UIScrollView
+
+#### 对API中的UIScrollView的属性、方法及使用的记录
+
+#### [简书：API_UIScrollView](http://www.jianshu.com/p/6155e6d5a4cb)
+
+
+--------
 
 
 ### 4月17日 更新：加入了API_UITableView

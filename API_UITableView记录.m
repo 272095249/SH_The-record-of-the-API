@@ -7,7 +7,7 @@
 //
 //  Coder_Sun的GitHub地址：https://github.com/272095249
 //  Coder_Sun简书网址：http://www.jianshu.com/u/87c7aa9de064
-// 
+//  iOS-源码解析专栏：http://www.jianshu.com/c/7fe8b38a197b
 
 #import <Foundation/Foundation.h>
 #import <CoreGraphics/CoreGraphics.h>
