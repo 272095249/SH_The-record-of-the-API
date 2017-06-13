@@ -3,6 +3,18 @@
 
 
 
+
+
+### 6月13日 更新：加入了API_UIResponder
+
+#### 对API中的UIResponder的属性、方法及使用的记录
+
+#### [简书：API_UIResponder](http://www.jianshu.com/p/c393b92b6ba5)
+
+#### [API专栏](http://www.jianshu.com/nb/10148295)
+
+--------
+
 ### 5月31日 更新：加入了API_UIScrollView
 
 #### 对API中的UIScrollView的属性、方法及使用的记录
